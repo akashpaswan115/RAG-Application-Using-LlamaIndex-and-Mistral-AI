@@ -1,9 +1,3 @@
-Sure! Here's a clean, professional, and visually appealing **README.md** file for your **RAG Application using Open-Source Framework `LlamaIndex` and `Mistral-AI`**.
-
-You can customize the title, add badges, or replace the dataset/sample query later as needed.
-
----
-
 ````markdown
 # 🔍 RAG Application using Open-Source LLMs @LlamaIndex & @Mistral-AI
 
